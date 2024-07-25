@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\MauiPoCSynapse.styles.css"
     },
     {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\Blazor_index.html",
+      "PackagePath": "staticwebassets\\Blazor_index.html"
+    },
+    {
       "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
@@ -17,12 +21,72 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
       "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
       "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\main.1dfc596476dfee47.js",
+      "PackagePath": "staticwebassets\\main.1dfc596476dfee47.js"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\mauiinterop.js",
+      "PackagePath": "staticwebassets\\mauiinterop.js"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\package-lock.json",
+      "PackagePath": "staticwebassets\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\polyfills.c40008af11e48cad.js",
+      "PackagePath": "staticwebassets\\polyfills.c40008af11e48cad.js"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\runtime.f074ce2aa5d51ee8.js",
+      "PackagePath": "staticwebassets\\runtime.f074ce2aa5d51ee8.js"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\styles.ef46db3751d8e999.css",
+      "PackagePath": "staticwebassets\\styles.ef46db3751d8e999.css"
     },
     {
       "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.MauiPoCSynapse.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -1075,3 +1075,17 @@ C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug
 C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-android\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-android\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-android\angular.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-android\package-lock.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-android\package.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-android\PocSynapse\angular.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-android\PocSynapse\package-lock.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-android\PocSynapse\package.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-android\PocSynapse\tsconfig.app.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-android\PocSynapse\tsconfig.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-android\PocSynapse\tsconfig.spec.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-android\tsconfig.app.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-android\tsconfig.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-android\tsconfig.spec.json

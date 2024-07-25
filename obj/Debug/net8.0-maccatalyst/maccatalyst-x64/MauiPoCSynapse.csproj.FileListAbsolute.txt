@@ -328,3 +328,17 @@ C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug
 C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiPoCSynapse.pdb
 C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiPoCSynapse.genruntimeconfig.cache
 C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\MauiPoCSynapse.dll
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\angular.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\package-lock.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\package.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\PocSynapse\angular.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\PocSynapse\package-lock.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\PocSynapse\package.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\PocSynapse\tsconfig.app.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\PocSynapse\tsconfig.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\PocSynapse\tsconfig.spec.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\tsconfig.app.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\tsconfig.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\tsconfig.spec.json

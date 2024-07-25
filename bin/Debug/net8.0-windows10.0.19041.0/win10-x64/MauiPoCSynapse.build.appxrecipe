@@ -40,6 +40,9 @@
     <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\Blazor_index.html">
+      <PackagePath>wwwroot\Blazor_index.html</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
     </AppxPackagedFile>
@@ -49,11 +52,56 @@
     <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\css\bootstrap\bootstrap.min.css.map">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css.map</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css">
+      <PackagePath>wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\css\open-iconic\font\fonts\open-iconic.eot">
+      <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\css\open-iconic\font\fonts\open-iconic.otf">
+      <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.otf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\css\open-iconic\font\fonts\open-iconic.svg">
+      <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf">
+      <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\css\open-iconic\font\fonts\open-iconic.woff">
+      <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\css\open-iconic\FONT-LICENSE">
+      <PackagePath>wwwroot\css\open-iconic\FONT-LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\css\open-iconic\ICON-LICENSE">
+      <PackagePath>wwwroot\css\open-iconic\ICON-LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\css\open-iconic\README.md">
+      <PackagePath>wwwroot\css\open-iconic\README.md</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\favicon.png">
       <PackagePath>wwwroot\favicon.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\main.1dfc596476dfee47.js">
+      <PackagePath>wwwroot\main.1dfc596476dfee47.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\mauiinterop.js">
+      <PackagePath>wwwroot\mauiinterop.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\package-lock.json">
+      <PackagePath>wwwroot\package-lock.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\polyfills.c40008af11e48cad.js">
+      <PackagePath>wwwroot\polyfills.c40008af11e48cad.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\runtime.f074ce2aa5d51ee8.js">
+      <PackagePath>wwwroot\runtime.f074ce2aa5d51ee8.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\wwwroot\styles.ef46db3751d8e999.css">
+      <PackagePath>wwwroot\styles.ef46db3751d8e999.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
@@ -225,6 +273,42 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\angular.json">
+      <PackagePath>angular.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\package-lock.json">
+      <PackagePath>package-lock.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\package.json">
+      <PackagePath>package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\PocSynapse\angular.json">
+      <PackagePath>PocSynapse\angular.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\PocSynapse\package-lock.json">
+      <PackagePath>PocSynapse\package-lock.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\PocSynapse\package.json">
+      <PackagePath>PocSynapse\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\PocSynapse\tsconfig.app.json">
+      <PackagePath>PocSynapse\tsconfig.app.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\PocSynapse\tsconfig.json">
+      <PackagePath>PocSynapse\tsconfig.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\PocSynapse\tsconfig.spec.json">
+      <PackagePath>PocSynapse\tsconfig.spec.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\tsconfig.app.json">
+      <PackagePath>tsconfig.app.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\tsconfig.json">
+      <PackagePath>tsconfig.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\tsconfig.spec.json">
+      <PackagePath>tsconfig.spec.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiPoCSynapse.deps.json">
       <PackagePath>MauiPoCSynapse.deps.json</PackagePath>
@@ -510,6 +594,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\Components\Layout\NavMenu.razor.css">
       <PackagePath>Components\Layout\NavMenu.razor.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\Shared\MainLayout.razor.css">
+      <PackagePath>Shared\MainLayout.razor.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\Shared\NavMenu.razor.css">
+      <PackagePath>Shared\NavMenu.razor.css</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

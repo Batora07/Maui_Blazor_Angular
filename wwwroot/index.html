@@ -1,30 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
-    <title>MauiPoCSynapse</title>
-    <base href="/" />
-    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/app.css" />
-    <link rel="stylesheet" href="MauiPoCSynapse.styles.css" />
-    <link rel="icon" type="image/png" href="favicon.png" />
+  <meta charset="utf-8">
+  <title>Angularinterop</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" href="styles.ef46db3751d8e999.css">
 </head>
-
 <body>
+  <div id="app">Loading...</div>
+  <app-root></app-root>
+  <!-- Les scripts ci-dessous permettent le binding angular <> Blazor -->
+  <script src="runtime.f074ce2aa5d51ee8.js" type="module"></script>
+  <script src="polyfills.c40008af11e48cad.js" type="module"></script>
+  <script src="main.1dfc596476dfee47.js" type="module"></script>
 
-    <div class="status-bar-safe-area"></div>
-
-    <div id="app">Loading...</div>
-    <app-root></app-root>
-    <div id="blazor-error-ui">
-        An unhandled error has occurred.
-        <a href="" class="reload">Reload</a>
-        <a class="dismiss">🗙</a>
-    </div>
-
-    <script src="_framework/blazor.webview.js" autostart="false"></script>
-    <script src="mauiinterop.js"></script>
+  <script src="_framework/blazor.webview.js" autostart="false"></script>
+  <!-- le script ci-dessous contient la logique la plus importante => call du js vers le cs et vice versa -->
+  <script src="mauiinterop.js"></script>
 </body>
-
 </html>

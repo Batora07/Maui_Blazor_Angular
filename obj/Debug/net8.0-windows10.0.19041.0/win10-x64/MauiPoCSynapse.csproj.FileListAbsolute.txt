@@ -204,3 +204,17 @@ C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug
 C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\angular.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\package-lock.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\package.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PocSynapse\angular.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PocSynapse\package-lock.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PocSynapse\package.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PocSynapse\tsconfig.app.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PocSynapse\tsconfig.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PocSynapse\tsconfig.spec.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tsconfig.app.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tsconfig.json
+C:\Users\m.portet-exterieur\source\repos\MauiPoCSynapse\MauiPoCSynapse\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tsconfig.spec.json
