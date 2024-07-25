@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\obj\\Debug\\net8.0-ios\\iossimulator-x64\\scopedcss\\bundle\\MauiPoCSynapse.styles.css",
+      "PackagePath": "staticwebassets\\MauiPoCSynapse.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\m.portet-exterieur\\source\\repos\\MauiPoCSynapse\\MauiPoCSynapse\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.MauiPoCSynapse.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.build.MauiPoCSynapse.props",
+      "PackagePath": "build\\MauiPoCSynapse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildMultiTargeting.MauiPoCSynapse.props",
+      "PackagePath": "buildMultiTargeting\\MauiPoCSynapse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildTransitive.MauiPoCSynapse.props",
+      "PackagePath": "buildTransitive\\MauiPoCSynapse.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
