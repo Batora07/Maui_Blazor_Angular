@@ -3,6 +3,10 @@
 # Maui_Blazor_Angular
 Appli de départ pour une interop Maui Blazor avec Angular
 
+Aperçu d'une insertion de Widget Google Map dans une appli MAUI Blazor hybride avec Angular :
+[![PLG01](img/portrait.png)](img/portrait.png)
+[![PLG02](img/paysage.png)](img/paysage.png)
+
 Pour que tout fonctionne bien : 
 - installer chocolatey sur la machine (si execution sur Windows)
 https://chocolatey.org/install
