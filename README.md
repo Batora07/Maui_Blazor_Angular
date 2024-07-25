@@ -5,17 +5,20 @@ Appli de départ pour une interop Maui Blazor avec Angular
 
 Pour que tout fonctionne bien : 
 - installer chocolatey sur la machine (si execution sur Windows)
-https://chocolatey.org/install?_gl=1*1g9i1e7*_ga*OTU1NzMxNjk3LjE3MjE3MjExMjM.*_ga_0WDD29GGN2*MTcyMTcyMTEyMi4xLjEuMTcyMTcyMTEzMC4wLjAuMA..
+https://chocolatey.org/install
 
 - installer nodejs :  cf : 
 https://community.chocolatey.org/packages/nodejs.install
 depuis un powershell
 
-une fois installé, toujours dans le powershell tapez npm,
+une fois installé, toujours dans le powershell tapez 
+>npm
+
 si il y a une erreur faites ceci :
 https://stackoverflow.com/questions/63423584/how-to-fix-error-nodemon-ps1-cannot-be-loaded-because-running-scripts-is-disabl
 
-- tapez > Set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
+- tapez 
+> Set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
 (en cas d'erreur seulement)
 
 - Puis installez angular : 
@@ -33,12 +36,14 @@ Le but va être de développer la partie js depuis VSCode et toute la partie plu
 
 Lorsque la partie js semble OK, on peut ensuite faire une commande dans le terminal de vscode pour vérifier que tout est OK (dans la barre d'outils en haut de VScode : Terminal -> New Terminal, ou bien ctrl+shift+ù)
 
-- taper > npm i
+- taper 
+> npm i
 (à taper dans la racine du projet, indiquée par un ./ dans mes explications)
 
 cela installera les dépendances du projet pour Angular
 
-- puis taper > npm start
+- puis taper 
+> npm start
 
 cela va lancer le serveur en local sur le port 4200
 
@@ -48,7 +53,8 @@ pour tester le site si votre navigateur n'a pas automatiquement ouvert la page c
 
 Une fois que les modifications vous conviennent : 
 
-- taper > ng build
+- taper 
+> ng build
 
 Cela va générer automatiquement des fichiers .js qui sont issus des fichiers présents dans ./src/app/app.component (/.css, /.html, /.spec.ts, /.ts)
 Ce sont ces 4 fichiers qui vont être traités par le index.html qui contient la Webview de Blazor !
